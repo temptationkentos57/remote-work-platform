@@ -8,3 +8,4 @@ coverage/
 logs/
 build/
 .DS_Store
+.next/
