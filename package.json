@@ -1,0 +1,13 @@
+{
+  "name": "remote-work-platform",
+  "version": "1.0.0",
+  "description": "Nền tảng làm việc từ xa cho các đội nhóm.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "keywords": ["remote", "work", "platform"],
+  "author": "Đội Ngũ Phát Triển Nền Tảng",
+  "license": "MIT"
+}
