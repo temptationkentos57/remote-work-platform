@@ -8,6 +8,6 @@
     "test": "echo 'No tests specified' && exit 0"
   },
   "keywords": ["remote", "work", "platform"],
-  "author": "Đội Ngũ Phát Triển Nền Tảng",
+  "author": "Đội Ngũ Phát Triển Nền Tảng <contact@example.com>",
   "license": "MIT"
 }
